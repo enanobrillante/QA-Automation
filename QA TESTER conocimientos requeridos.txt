@@ -1,0 +1,40 @@
+QA Tester
+Ripio
+-
+La Plata, Buenos Aires
+Este empleo ya no se encuentra disponible en Ripio.
+Búsquedas relacionadas:
+Empleos de QA Tester en La Plata, Buenos Aires
+Empleos de Ripio en La Plata, Buenos Aires
+Perfil orientado principalmente a la medición de la calidad de los procesos utilizados para crear un producto de calidad. Responsable de realizar el Control de Calidad del Producto de Software (Quality Control), intentando encontrar la mayor cantidad de fallas antes de que el software salga a produccio´n. 
+
+Principales tareas:
+Diseñar y construir el plan de testing. 
+
+Disen~ar casos de prueba. 
+
+Ejecutar y documentar pruebas, reportando y siguiendo los incidentes encontrados, usando las herramientas apropiadas de acuerdo a los esta´ndares de trabajo de donde se desempen~e. 
+
+Seguimiento de los procesos 
+
+Test de Performance 
+
+Test de Aceptacio´n 
+
+Test de usabilidad/navegabilidad. 
+
+Somos una empresa Bitcoin / Blockchain líder en América Latina, pionera dentro del ecosistema fintech de la región y en constante crecimiento. Nuestro principal objetivo es ampliar la inclusión financiera y democratizar la economía digital en América Latina, ofreciendo alternativas de pago digitales al alcance de todos. 
+
+Requisitos 
+
+Conocimientos de ingenieri´a del software 
+
+Conocimientos de metodologi´as y modelos de calidad para la industria del software 
+
+Metodologi´as de desarrollo de sistemas (a´giles, no a´giles). 
+
+Conocimientos de herramientas para la ejecucio´n y seguimiento de testing 
+
+Experiencia minima de 1 año es puestos similares. 
+
+Pensamiento anali´tico / cri´tico.
